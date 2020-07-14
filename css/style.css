@@ -1,0 +1,50 @@
+body{
+    background-color: #fffdfc;
+}
+#main{
+    background-color: #cfc8c4;
+} 
+#img-div{
+    background-color: #ebe5d5;
+    width: 95%;
+    border: 1 solid darkgray;
+    border-radius: 5px;
+    box-shadow: 1px 3px 50px dimgray;
+    margin: auto;
+} 
+#image{
+    width: 100%;
+    max-width: 100%;
+    margin: auto;
+    display: block;
+}
+#title{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3em;
+    font-weight: 900;
+}
+#img-caption{
+    text-align: center;
+    margin: 70px 0 5px 0;
+
+}
+figcaption{
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    opacity: 0.5;
+    font-weight: bold;
+}
+p{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: medium;
+    font-weight: bold;
+}
+
+#tribute-info {
+    margin: auto;
+    max-width: 95%;
+    padding: 2rem;
+}
