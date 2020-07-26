@@ -47,4 +47,13 @@ p{
     margin: auto;
     max-width: 95%;
     padding: 2rem;
+   font-size: x-large;
+    line-height: 2em;
+}
+#tribute-info h2{
+        text-align: center;
+}
+#tribute-info ul{
+    padding-left: 20vw;
+    padding-right: 10vw;
 }
