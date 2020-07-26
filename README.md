@@ -6,7 +6,7 @@
 > Clone or Download this repository and run with an open server of ```index.html ``` on your preferred browser
 
 # Preview
-[View](https://eloquent-euclid-076c26.netlify.app)
+[View](https://practical-jepsen-2fb4eb.netlify.app)
 
 # Prerequisite
 
